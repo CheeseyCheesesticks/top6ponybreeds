@@ -1,0 +1,40 @@
+img {
+	width: 400px ;
+	height: 350px ;
+	object-fit: cover;
+	padding: 10px;
+	background-color: white;
+
+
+	
+}
+
+body {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+
+	background-color: #AE3B64;
+
+	color: white;
+
+}
+
+div {
+	display: flex; 
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.Pony {
+	width: 400px;
+}
+
+#websiteTitle {
+	font-size: 70px;
+}
+
+.Pony:hover {
+	background-color: white;
+	color: black;
+}
